@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "test d'un project node",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienBounoir/nodejs-workshop.git"
+  },
+  "author": "bounoir fabien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabienBounoir/nodejs-workshop/issues"
+  },
+  "homepage": "https://github.com/FabienBounoir/nodejs-workshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
